@@ -2,7 +2,7 @@ transformers
 torch
 streamlit
 gtts
-speech_recognition
+SpeechRecognition
 io
 pygame
 time
