@@ -3,6 +3,5 @@ torch
 streamlit
 gtts
 SpeechRecognition
-io
 pygame
 time
